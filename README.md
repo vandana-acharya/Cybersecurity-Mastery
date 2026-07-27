@@ -39,25 +39,5 @@ This repository will contain:
 - 🎯 Interview Questions
 - 🚀 Projects
 
-## 📂 Course Progress
-
-| Chapter | Status |
-|----------|--------|
-| 01 - Computer Fundamentals | ⏳ Not Started |
-| 02 - Networking | ⏳ Not Started |
-| 03 - Linux | ⏳ Not Started |
-| 04 - Windows | ⏳ Not Started |
-| 05 - Windows Internals | ⏳ Not Started |
-| 06 - Active Directory | ⏳ Not Started |
-| 07 - PowerShell | ⏳ Not Started |
-| 08 - Python | ⏳ Not Started |
-| 09 - Sysmon | ⏳ Not Started |
-| 10 - Windows Event Logs | ⏳ Not Started |
-| 11 - Wazuh | ⏳ Not Started |
-| 12 - Detection Engineering | ⏳ Not Started |
-| 13 - Sigma Rules | ⏳ Not Started |
-| 14 - YARA Rules | ⏳ Not Started |
-| 15 - Malware Analysis | ⏳ Not Started |
-| 16 - Incident Response | ⏳ Not Started |
 
 
